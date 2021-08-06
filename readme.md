@@ -1,4 +1,4 @@
-Machine learning project. Made by Priyansh.
+Machine learning project. Group Project made by Priyansh and Prannet.
 
 Topic chosen is Natural image processing. The dataset chosen for the same is Cifar10.
 We have trained three different machine learning models. Which are Random forest,
